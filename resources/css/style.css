@@ -233,7 +233,9 @@ header {
     margin: 5px 0;
 }
 
+/*----------------------------------------*/
 /* Main nav */
+/*----------------------------------------*/
 
 .main-nav {
     float: right;
@@ -272,7 +274,7 @@ header {
     display: none;
 }
 
-.mobile-nav-icon {
+.mobile-nav-icon i {
     font-size: 200%;
     color: #fff;
 }
@@ -295,7 +297,7 @@ header {
 
 .sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
-    padding: 16px 0;
+    padding: 8px 0;
     color: #555;
 }
 
